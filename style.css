@@ -20,13 +20,17 @@ body {
   }
   
   h1 {
-    color: #0077aa;
+    color: lab(0.62% 1.57 0.55);
     margin-bottom: 10px;
+    font-weight: bold;
+   
   }
   
   h2 {
-    color: #006699;
+    color: lab(0.62% 1.57 0.55);
     margin-top: 20px;
+    font-weight: bold;
+    
   }
   
   .headline {
@@ -51,3 +55,14 @@ body {
     padding-left: 20px;
   }
   
+  .casais {
+    color: #b266ff;;
+  }
+
+  .familias {
+    color: #ff66b2;;
+  }
+
+  .orcamento {
+    color: #ff9933;
+  }
